@@ -1,0 +1,5 @@
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\bin\Debug\netcoreapp2.0\AuthorizePolicy.deps.json
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\bin\Debug\netcoreapp2.0\AuthorizePolicy.dll
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netcoreapp2.0\AuthorizePolicy.csproj.CoreCompileInputs.cache
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netcoreapp2.0\AuthorizePolicy.AssemblyInfoInputs.cache
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netcoreapp2.0\AuthorizePolicy.AssemblyInfo.cs
