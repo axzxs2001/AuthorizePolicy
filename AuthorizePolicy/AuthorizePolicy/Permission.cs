@@ -2,19 +2,19 @@
 namespace AuthorizePolicy
 {
     /// <summary>
-    /// 用户权限
+    /// 用户或角色或其他凭据实体
     /// </summary>
-    public class UserPermission
+    public class Permission
     {
         /// <summary>
-        /// 用户名
+        /// 用户或角色或其他凭据名称
         /// </summary>
-        public string UserName
+        public virtual string Name
         { get; set; }
         /// <summary>
         /// 请求Url
         /// </summary>
-        public string Url
+        public virtual string Url
         { get; set; }
     }
 }

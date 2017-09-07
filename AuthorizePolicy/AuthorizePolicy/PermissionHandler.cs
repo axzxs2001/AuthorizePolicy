@@ -14,12 +14,12 @@ namespace AuthorizePolicy
         /// <summary>
         /// 用户权限
         /// </summary>
-        public List<UserPermission> UserPermissions { get; set; }
+        public List<Permission> Permissions { get; set; }
 
         protected override Task HandleRequirementAsync(AuthorizationHandlerContext context, PermissionRequirement requirement)
         {
             //赋值用户权限
-            UserPermissions = requirement.UserPermissions;
+            Permissions = requirement.Permissions;
             //从AuthorizationHandlerContext转成HttpContext，以便取出表求信息
             var httpContext = (context.Resource as Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext).HttpContext;
             //请求Url
@@ -28,11 +28,12 @@ namespace AuthorizePolicy
             var isAuthenticated = httpContext.User.Identity.IsAuthenticated;
             if (isAuthenticated)
             {
-                if (UserPermissions.GroupBy(g => g.Url).Where(w => w.Key.ToLower() == questUrl).Count() > 0)
+                //权限中是否存在请求的url
+                if (Permissions.GroupBy(g => g.Url).Where(w => w.Key.ToLower() == questUrl).Count() > 0)
                 {
-                    //用户名
-                    var userName = httpContext.User.Claims.SingleOrDefault(s => s.Type == ClaimTypes.Sid).Value;
-                    if (UserPermissions.Where(w => w.UserName == userName && w.Url.ToLower() == questUrl).Count() > 0)
+                    var name = httpContext.User.Claims.SingleOrDefault(s => s.Type == requirement.ClaimType).Value;                   
+                    //验证权限
+                    if (Permissions.Where(w => w.Name == name && w.Url.ToLower() == questUrl).Count() > 0)
                     {
                         context.Succeed(requirement);
                     }
