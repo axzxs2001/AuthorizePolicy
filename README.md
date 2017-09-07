@@ -28,9 +28,9 @@ A custome policy of authorize on asp.net core 2.0
             services.AddSingleton<IAuthorizationHandler, PermissionHandler>();
         }
 ###### 2、在Controller中
-    [Authorize(Policy = "Permission")]
-    public class HomeController : Controller
-    登录Action中
+        [Authorize(Policy = "Permission")]
+        public class HomeController : Controller
+###### 3、登录Action中
           //用户标识
           var identity = new ClaimsIdentity(CookieAuthenticationDefaults.AuthenticationScheme);
           //如果是基于角色的授权策略，这里要添加用户
