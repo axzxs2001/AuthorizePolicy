@@ -2,8 +2,8 @@
 A custome policy of authorize on asp.net core 2.0
 一个基于授权的自定义策略类型，要求asp.net core 2.0以上
 
-## 使用方法：
-# 1、在Stuartup.cs中
+#### 使用方法：
+###### 1、在Stuartup.cs中
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc(); 
