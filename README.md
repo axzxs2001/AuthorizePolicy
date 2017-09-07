@@ -1,7 +1,8 @@
+
 # AuthorizePolicy
 A custome policy of authorize on asp.net core 2.0
 一个基于授权的自定义策略类型，要求asp.net core 2.0以上
-
+参见：http://www.cnblogs.com/axzxs2001/p/7482777.html
 #### 使用方法：
 ###### 1、在Stuartup.cs中
           public void ConfigureServices(IServiceCollection services)
