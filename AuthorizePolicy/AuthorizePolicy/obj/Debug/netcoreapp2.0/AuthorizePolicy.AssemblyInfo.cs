@@ -13,9 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("桂素伟,刘行")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("AuthorizePolicy是基于")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("AuthorizePolicy是基于asp.net core 2.0（.net core）的授权自定义策略。")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthorizePolicy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthorizePolicy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

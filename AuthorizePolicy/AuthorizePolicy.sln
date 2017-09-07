@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizePolicy", "AuthorizePolicy\AuthorizePolicy.csproj", "{550CB912-CBAD-4450-B6C9-370C45ABAEE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizePolicySample", "AuthorizePolicySample\AuthorizePolicySample.csproj", "{22AD6B5F-2D61-4FCE-A406-0C803EF97B47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{550CB912-CBAD-4450-B6C9-370C45ABAEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{550CB912-CBAD-4450-B6C9-370C45ABAEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{550CB912-CBAD-4450-B6C9-370C45ABAEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AD6B5F-2D61-4FCE-A406-0C803EF97B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AD6B5F-2D61-4FCE-A406-0C803EF97B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AD6B5F-2D61-4FCE-A406-0C803EF97B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AD6B5F-2D61-4FCE-A406-0C803EF97B47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

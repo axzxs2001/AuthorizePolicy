@@ -1,0 +1,13 @@
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.deps.json
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.runtimeconfig.json
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.runtimeconfig.dev.json
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.dll
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.csproj.CoreCompileInputs.cache
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.AssemblyInfoInputs.cache
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.AssemblyInfo.cs
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.csprojResolveAssemblyReference.cache
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.dll
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicy.dll
+D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicy.pdb
