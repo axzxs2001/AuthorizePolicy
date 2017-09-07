@@ -69,7 +69,7 @@ namespace AuthorizePolicySample.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login(string userName, string password, string returnUrl = null)
         {
-            //这个集合模拟用户表
+            //这个集合模拟用户表，可从数据库中查询出来
             var list = new List<dynamic> {
                 new { UserName = "gsw", Password = "111111", Role = "admin",Name="桂素伟"},
                 new { UserName = "aaa", Password = "222222", Role = "system",Name="测试A"}
