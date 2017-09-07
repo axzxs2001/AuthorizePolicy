@@ -18,6 +18,7 @@ A custome policy of authorize on asp.net core 2.0
                               new Permission {  Url="/home/contact", Name="system"}
                           };
                 //如果第三个参数，是ClaimTypes.Role，上面集合的每个元素的Name为角色名称，如果ClaimTypes.Name，即上面集合的每个元素的Name为用户名
+                
                 var permissionRequirement = new PermissionRequirement("/denied", permission, ClaimTypes.Role);
                 options.AddPolicy("Permission",
                           policy => policy.Requirements.Add(permissionRequirement));
