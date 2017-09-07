@@ -9,5 +9,3 @@ D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\
 D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
 D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.dll
 D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
-D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicy.dll
-D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicy.pdb
