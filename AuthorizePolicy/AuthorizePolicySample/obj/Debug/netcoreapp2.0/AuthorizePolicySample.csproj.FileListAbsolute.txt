@@ -9,3 +9,16 @@ D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\
 D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
 D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.dll
 D:\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.csprojResolveAssemblyReference.cache
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.csproj.CoreCompileInputs.cache
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.AssemblyInfoInputs.cache
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.AssemblyInfo.cs
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.dll
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.deps.json
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.runtimeconfig.json
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.runtimeconfig.dev.json
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.dll
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicyStandard.dll
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicyStandard.pdb
