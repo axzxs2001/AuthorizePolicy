@@ -1,0 +1,4 @@
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Release\netcoreapp2.0\AuthorizePolicySample.csprojResolveAssemblyReference.cache
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Release\netcoreapp2.0\AuthorizePolicySample.csproj.CoreCompileInputs.cache
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Release\netcoreapp2.0\AuthorizePolicySample.AssemblyInfoInputs.cache
+C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\obj\Release\netcoreapp2.0\AuthorizePolicySample.AssemblyInfo.cs

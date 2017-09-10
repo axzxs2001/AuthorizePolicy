@@ -202,7 +202,6 @@ C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\b
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\bin\Debug\net462\System.Xml.XPath.XDocument.dll
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\bin\Debug\net462\AuthorizePolicy.dll
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\bin\Debug\net462\Microsoft.AspNetCore.Authentication.Cookies.dll
-C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\bin\Debug\net462\AuthorizePolicy.pdb
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\obj\Debug\net462\AuthorizePolicySampleFX.csprojResolveAssemblyReference.cache
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\obj\Debug\net462\AuthorizePolicySampleFX.csproj.AuthorizePolicySampleFX.exe.config
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySampleFX\obj\Debug\net462\AuthorizePolicySampleFX.csproj.CoreCompileInputs.cache

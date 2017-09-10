@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.2": {
+      "AuthorizePolicy/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
+        }
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -2073,22 +2085,21 @@
         "runtime": {
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
         }
-      },
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win7-x86": {
       "AuthorizePolicy/1.0.1": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc": "2.0.0"
         },
         "compile": {
-          "bin/placeholder/AuthorizePolicy.dll": {}
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AuthorizePolicy.dll": {}
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
         }
-      }
-    },
-    ".NETFramework,Version=v4.6.2/win7-x86": {
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -4047,23 +4058,20 @@
         "runtime": {
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "AuthorizePolicy/1.0.1": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Mvc": "2.0.0"
-        },
-        "compile": {
-          "bin/placeholder/AuthorizePolicy.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AuthorizePolicy.dll": {}
-        }
       }
     }
   },
   "libraries": {
+    "AuthorizePolicy/1.0.1": {
+      "sha512": "33h6wfN/KT7FWxRkLcyBcGYxXIUYT6zeBk2UBkX1E0HqJWAxNUNg6WkTdO4APVAZcVP2cIYErTgcHkKpuJYs6g==",
+      "type": "package",
+      "path": "authorizepolicy/1.0.1",
+      "files": [
+        "authorizepolicy.1.0.1.nupkg.sha512",
+        "authorizepolicy.nuspec",
+        "lib/netstandard2.0/AuthorizePolicy.dll"
+      ]
+    },
     "Libuv/1.10.0": {
       "sha512": "GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
       "type": "package",
@@ -7859,11 +7867,6 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "AuthorizePolicy/1.0.1": {
-      "type": "project",
-      "path": "../AuthorizePolicy/AuthorizePolicy.csproj",
-      "msbuildProject": "../AuthorizePolicy/AuthorizePolicy.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7912,11 +7915,7 @@
       },
       "frameworks": {
         "net462": {
-          "projectReferences": {
-            "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy.csproj": {
-              "projectPath": "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -7940,6 +7939,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "2.0.0"
+          },
+          "AuthorizePolicy": {
+            "target": "Package",
+            "version": "1.0.1"
           },
           "Microsoft.AspNetCore.Http": {
             "target": "Package",

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETFramework,Version=v4.6.2/win7-x86",
-    "signature": "90fead82acfda802e347a6084ff323c0190b32be"
+    "signature": "c244be5cacd1675906b7d804d597dfdf752ec00a"
   },
   "compilationOptions": {
     "defines": [
@@ -23,7 +23,7 @@
     ".NETFramework,Version=v4.6.2": {
       "AuthorizePolicySampleFX/1.0.0": {
         "dependencies": {
-          "AuthorizePolicy": "1.0.0",
+          "AuthorizePolicy": "1.0.1",
           "Microsoft.AspNetCore": "2.0.0",
           "Microsoft.AspNetCore.Authentication": "2.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "2.0.0",
@@ -761,6 +761,14 @@
       "System.Xml.XPath.XDocument.Reference/4.1.0.0": {
         "compile": {
           "System.Xml.XPath.XDocument.dll": {}
+        }
+      },
+      "AuthorizePolicy/1.0.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -1825,20 +1833,12 @@
         "dependencies": {
           "System.Xml.XPath": "4.3.0"
         }
-      },
-      "AuthorizePolicy/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Mvc": "2.0.0"
-        },
-        "compile": {
-          "AuthorizePolicy.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.6.2/win7-x86": {
       "AuthorizePolicySampleFX/1.0.0": {
         "dependencies": {
-          "AuthorizePolicy": "1.0.0",
+          "AuthorizePolicy": "1.0.1",
           "Microsoft.AspNetCore": "2.0.0",
           "Microsoft.AspNetCore.Authentication": "2.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "2.0.0",
@@ -1971,6 +1971,14 @@
         },
         "runtime": {
           "AuthorizePolicySampleFX.exe": {}
+        }
+      },
+      "AuthorizePolicy/1.0.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -3042,14 +3050,6 @@
         "dependencies": {
           "System.Xml.XPath": "4.3.0"
         }
-      },
-      "AuthorizePolicy/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Mvc": "2.0.0"
-        },
-        "runtime": {
-          "AuthorizePolicy.dll": {}
-        }
       }
     }
   },
@@ -3058,6 +3058,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AuthorizePolicy/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-33h6wfN/KT7FWxRkLcyBcGYxXIUYT6zeBk2UBkX1E0HqJWAxNUNg6WkTdO4APVAZcVP2cIYErTgcHkKpuJYs6g==",
+      "path": "authorizepolicy/1.0.1",
+      "hashPath": "authorizepolicy.1.0.1.nupkg.sha512"
     },
     "Libuv/1.10.0": {
       "type": "package",
@@ -4087,11 +4094,6 @@
       "sha512": "sha512-6p9bXKiLqyCuwXIh1XXeEke4XYKtOLRxpXRSzsJRJHURCYkbAmqL9llmT6OovY5EGAVWltvwsLsjg9mJtcljmA==",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
-    },
-    "AuthorizePolicy/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "Microsoft.CSharp.Reference/4.0.0.0": {
       "type": "referenceassembly",

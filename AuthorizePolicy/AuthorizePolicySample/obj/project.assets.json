@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
+      "AuthorizePolicy/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
+        }
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -4746,23 +4758,20 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
-      },
-      "AuthorizePolicy/1.0.1": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Mvc": "2.0.0"
-        },
-        "compile": {
-          "bin/placeholder/AuthorizePolicy.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AuthorizePolicy.dll": {}
-        }
       }
     }
   },
   "libraries": {
+    "AuthorizePolicy/1.0.1": {
+      "sha512": "33h6wfN/KT7FWxRkLcyBcGYxXIUYT6zeBk2UBkX1E0HqJWAxNUNg6WkTdO4APVAZcVP2cIYErTgcHkKpuJYs6g==",
+      "type": "package",
+      "path": "authorizepolicy/1.0.1",
+      "files": [
+        "authorizepolicy.1.0.1.nupkg.sha512",
+        "authorizepolicy.nuspec",
+        "lib/netstandard2.0/AuthorizePolicy.dll"
+      ]
+    },
     "Libuv/1.10.0": {
       "sha512": "GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
       "type": "package",
@@ -12537,11 +12546,6 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
-    },
-    "AuthorizePolicy/1.0.1": {
-      "type": "project",
-      "path": "../AuthorizePolicy/AuthorizePolicy.csproj",
-      "msbuildProject": "../AuthorizePolicy/AuthorizePolicy.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12584,11 +12588,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy.csproj": {
-              "projectPath": "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicy.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -12600,6 +12600,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "AuthorizePolicy": {
+            "target": "Package",
+            "version": "1.0.1"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "2.0.0",

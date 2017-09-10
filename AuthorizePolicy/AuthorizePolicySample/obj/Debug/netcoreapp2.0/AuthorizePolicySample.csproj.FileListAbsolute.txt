@@ -20,5 +20,3 @@ C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.runtimeconfig.dev.json
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.dll
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicySample.pdb
-C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicyStandard.dll
-C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicySample\bin\Debug\netcoreapp2.0\AuthorizePolicyStandard.pdb
