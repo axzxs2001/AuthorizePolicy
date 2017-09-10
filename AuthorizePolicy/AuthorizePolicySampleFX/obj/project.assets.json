@@ -2074,7 +2074,7 @@
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "AuthorizePolicy/1.0.0": {
+      "AuthorizePolicy/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -4048,7 +4048,7 @@
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "AuthorizePolicy/1.0.0": {
+      "AuthorizePolicy/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -7860,7 +7860,7 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "AuthorizePolicy/1.0.0": {
+    "AuthorizePolicy/1.0.1": {
       "type": "project",
       "path": "../AuthorizePolicy/AuthorizePolicy.csproj",
       "msbuildProject": "../AuthorizePolicy/AuthorizePolicy.csproj"
@@ -7868,7 +7868,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.2": [
-      "AuthorizePolicy >= 1.0.0",
+      "AuthorizePolicy >= 1.0.1",
       "Microsoft.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore.Authentication >= 2.0.0",
       "Microsoft.AspNetCore.Authentication.Cookies >= 2.0.0",

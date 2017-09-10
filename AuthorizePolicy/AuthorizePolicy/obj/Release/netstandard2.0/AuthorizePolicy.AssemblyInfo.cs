@@ -11,14 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AuthorizePolicy")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("桂素伟,刘行")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("A custome policy of authorize standard library for asp.net core 2.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthorizePolicy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthorizePolicy")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

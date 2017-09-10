@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AuthorizePolicy"
   ],
+  "SelectedNode": "\\AuthorizePolicy\\AuthorizePolicy.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -4747,7 +4747,7 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "AuthorizePolicy/1.0.0": {
+      "AuthorizePolicy/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -12538,7 +12538,7 @@
         "windowsazure.storage.nuspec"
       ]
     },
-    "AuthorizePolicy/1.0.0": {
+    "AuthorizePolicy/1.0.1": {
       "type": "project",
       "path": "../AuthorizePolicy/AuthorizePolicy.csproj",
       "msbuildProject": "../AuthorizePolicy/AuthorizePolicy.csproj"
@@ -12546,7 +12546,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "AuthorizePolicy >= 1.0.0",
+      "AuthorizePolicy >= 1.0.1",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
