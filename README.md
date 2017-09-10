@@ -1,6 +1,6 @@
 
 # AuthorizePolicy
-A custome policy of authorize on asp.net core 2.0
+A custome policy of authorize standard library for asp.net core 2.0
 
 Blog：http://www.cnblogs.com/axzxs2001/p/7482777.html
 #### Usage：
