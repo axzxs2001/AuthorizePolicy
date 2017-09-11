@@ -26,10 +26,10 @@ Blog：http://www.cnblogs.com/axzxs2001/p/7482777.html
          
             services.AddSingleton<IAuthorizationHandler, PermissionHandler>();
         }
-###### 2、Controller
+###### 2、HomeController
         [Authorize(Policy = "Permission")]
         public class HomeController : Controller
-###### 3、Login Action       
+###### 3、Login Action(Post)       
           var identity = new ClaimsIdentity(CookieAuthenticationDefaults.AuthenticationScheme);    
           identity.AddClaim(new Claim(ClaimTypes.Name, user.UserName));      
           identity.AddClaim(new Claim(ClaimTypes.Role, user.Role));
