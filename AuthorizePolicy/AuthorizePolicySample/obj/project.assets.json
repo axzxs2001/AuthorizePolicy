@@ -2,16 +2,16 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "AuthorizePolicy/1.0.0": {
+      "AuthorizePolicy/1.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc": "2.0.0"
         },
         "compile": {
-          "lib/netcoreapp2.0/AuthorizePolicy.dll": {}
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp2.0/AuthorizePolicy.dll": {}
+          "lib/netstandard2.0/AuthorizePolicy.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -4762,14 +4762,14 @@
     }
   },
   "libraries": {
-    "AuthorizePolicy/1.0.0": {
-      "sha512": "ekzu4p8haicmfqhwdkeM6wS5LRIOj65LuVHL7J8v1KP4EEhefIiLL9g213JsHqZfqnrUQNUCz9rtDSDh1QtjSw==",
+    "AuthorizePolicy/1.0.1": {
+      "sha512": "utu+6c8YFKib5WDX9a18PFTNUArF/P8UlZbZDi6ZBabNiu4T6V7I/ZJGGWrSo+qUwEBY4eUcpEfEXc7EhfTOvA==",
       "type": "package",
-      "path": "authorizepolicy/1.0.0",
+      "path": "authorizepolicy/1.0.1",
       "files": [
-        "authorizepolicy.1.0.0.nupkg.sha512",
+        "authorizepolicy.1.0.1.nupkg.sha512",
         "authorizepolicy.nuspec",
-        "lib/netcoreapp2.0/AuthorizePolicy.dll"
+        "lib/netstandard2.0/AuthorizePolicy.dll"
       ]
     },
     "Libuv/1.10.0": {
@@ -12550,7 +12550,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "AuthorizePolicy >= 1.0.0",
+      "AuthorizePolicy >= 1.0.1",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12602,7 +12602,7 @@
         "dependencies": {
           "AuthorizePolicy": {
             "target": "Package",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

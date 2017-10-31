@@ -42,6 +42,7 @@ namespace AuthorizePolicySample
             }).AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options => {
                 options.LoginPath = new PathString("/login");
                 options.AccessDeniedPath = new PathString("/denied");
+                options.ExpireTimeSpan = TimeSpan.FromSeconds(20);
             });
             //注入授权Handler
             services.AddSingleton<IAuthorizationHandler, PermissionHandler>();
