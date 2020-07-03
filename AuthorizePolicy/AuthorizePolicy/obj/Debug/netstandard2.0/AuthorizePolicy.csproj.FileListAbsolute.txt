@@ -1,9 +1,10 @@
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\bin\Debug\netstandard2.0\AuthorizePolicy.deps.json
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\bin\Debug\netstandard2.0\AuthorizePolicy.dll
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\bin\Debug\netstandard2.0\AuthorizePolicy.pdb
-C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.csprojResolveAssemblyReference.cache
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.csproj.CoreCompileInputs.cache
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.AssemblyInfoInputs.cache
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.AssemblyInfo.cs
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.dll
 C:\MyFile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.pdb
+C:\myfile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.csprojAssemblyReference.cache
+C:\myfile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\obj\Debug\netstandard2.0\AuthorizePolicy.sourcelink.json

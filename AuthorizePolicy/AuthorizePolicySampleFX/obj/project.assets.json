@@ -4063,10 +4063,12 @@
   },
   "libraries": {
     "AuthorizePolicy/1.0.1": {
-      "sha512": "33h6wfN/KT7FWxRkLcyBcGYxXIUYT6zeBk2UBkX1E0HqJWAxNUNg6WkTdO4APVAZcVP2cIYErTgcHkKpuJYs6g==",
+      "sha512": "Pknvbw32p/8PNo3m4UJY7X7VX4NKiSkih90QZg0oJjLKkhr9fVQ5vSt1XpDmtJNO0MbOs44LPIisaUh5bw6tgw==",
       "type": "package",
       "path": "authorizepolicy/1.0.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "authorizepolicy.1.0.1.nupkg.sha512",
         "authorizepolicy.nuspec",
         "lib/netstandard2.0/AuthorizePolicy.dll"
@@ -5368,10 +5370,12 @@
       ]
     },
     "Newtonsoft.Json.Bson/1.0.1": {
-      "sha512": "vrfk1PUrNTJuQNNUkXFd0RsMy3hEJS7zay+VHC/HSVTBU7f4X2jfTZktBDYCY/Sk2Jczh4kp6bPcLG56LHy+2A==",
+      "sha512": "5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
       "type": "package",
       "path": "newtonsoft.json.bson/1.0.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/Newtonsoft.Json.Bson.dll",
         "lib/net45/Newtonsoft.Json.Bson.xml",
         "lib/netstandard1.3/Newtonsoft.Json.Bson.dll",
@@ -5822,10 +5826,12 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.3.0": {
-      "sha512": "aXK+ycOpS+Ob5zU359smbAGDY37aLfzQVatskkj7xHYTOzqClgEGSAsKnNbTtmgrS0ggsiGdutYltTZnQMP/vw==",
+      "sha512": "omCF64wzQ3Q2CeIqkD6lmmxeMZtGHUmzgFMPjfVaOsyqpR66p/JaZzManMw1s33osoAb5gqpncsjie67+yUPHQ==",
       "type": "package",
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7795,10 +7801,12 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "eJlbVvcGj3/b5lGYDhiJU1ETvX3hTOveRARi1fx7iYxg2oQpYj+/8uD5k9WFjLwoy0zDarTg3dD4lbjX7AUA3w==",
+      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7832,10 +7840,12 @@
       ]
     },
     "System.Xml.XPath.XDocument/4.3.0": {
-      "sha512": "6p9bXKiLqyCuwXIh1XXeEke4XYKtOLRxpXRSzsJRJHURCYkbAmqL9llmT6OovY5EGAVWltvwsLsjg9mJtcljmA==",
+      "sha512": "jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
       "type": "package",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7883,35 +7893,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gsw\\.nuget\\packages\\": {},
+    "C:\\Users\\axzxs\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj",
+      "projectUniqueName": "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj",
       "projectName": "AuthorizePolicySampleFX",
-      "projectPath": "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj",
-      "packagesPath": "C:\\Users\\gsw\\.nuget\\packages\\",
-      "outputPath": "C:\\MyFile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\obj\\",
+      "projectPath": "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj",
+      "packagesPath": "C:\\Users\\axzxs\\.nuget\\packages\\",
+      "outputPath": "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\gsw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\axzxs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net462"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\gsw\\.dotnet\\NuGetFallbackFolder": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dev-nuget.starpay.jp/v3/index.json": {},
+        "https://nuget.starpay.jp/v3/index.json": {}
       },
       "frameworks": {
         "net462": {
@@ -7927,44 +7934,45 @@
     "frameworks": {
       "net462": {
         "dependencies": {
+          "AuthorizePolicy": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
           "Microsoft.AspNetCore": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.AspNetCore.Authentication": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "Microsoft.AspNetCore.Authentication.Cookies": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.AspNetCore.Http": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "Microsoft.AspNetCore.Mvc.Razor.ViewCompilation": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
-          },
-          "AuthorizePolicy": {
-            "target": "Package",
-            "version": "1.0.1"
-          },
-          "Microsoft.AspNetCore.Http": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.VisualStudio.Web.BrowserLink": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.AspNetCore.Mvc": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.AspNetCore.Authentication": {
-            "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           },
           "Microsoft.AspNetCore.StaticFiles": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.VisualStudio.Web.BrowserLink": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           }
-        }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

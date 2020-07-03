@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AuthorizePolicy</id>
+    <version>1.0.2</version>
+    <authors>桂素伟,刘行</authors>
+    <owners>桂素伟,刘行</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/axzxs2001/AuthorizePolicy</projectUrl>
+    <description>A custome policy of authorize standard library for asp.net core 2.0</description>
+    <repository type="git" url="https://github.com/axzxs2001/AuthorizePolicy" commit="5fae945880ee2079b5c2512a261ba9d7591c554f" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\myfile\Source\Repos\AuthorizePolicy\AuthorizePolicy\AuthorizePolicy\bin\Debug\netstandard2.0\AuthorizePolicy.dll" target="lib\netstandard2.0\AuthorizePolicy.dll" />
+  </files>
+</package>

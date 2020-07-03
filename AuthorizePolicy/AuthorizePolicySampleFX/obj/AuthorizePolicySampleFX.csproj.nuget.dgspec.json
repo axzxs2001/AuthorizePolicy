@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj": {}
+  },
+  "projects": {
+    "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj",
+        "projectName": "AuthorizePolicySampleFX",
+        "projectPath": "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\AuthorizePolicySampleFX.csproj",
+        "packagesPath": "C:\\Users\\axzxs\\.nuget\\packages\\",
+        "outputPath": "C:\\myfile\\Source\\Repos\\AuthorizePolicy\\AuthorizePolicy\\AuthorizePolicySampleFX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\axzxs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-nuget.starpay.jp/v3/index.json": {},
+          "https://nuget.starpay.jp/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "AuthorizePolicy": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.ViewCompilation": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
